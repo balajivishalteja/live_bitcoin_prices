@@ -1,0 +1,270 @@
+[
+    {
+        "date": "07-03-21T00:00:00",
+        "price": 49386.1163036837,
+        "direction": "na",
+        "change": "na",
+        "dayOfWeek": "Sunday"
+    },
+    {
+        "date": "08-03-21T00:00:00",
+        "price": 50669.183923619,
+        "direction": "up",
+        "change": 1283.0676199352965,
+        "dayOfWeek": "Monday",
+        "highSinceStart": true,
+        "lowSinceStart": false
+    },
+    {
+        "date": "09-03-21T00:00:00",
+        "price": 54178.7475469056,
+        "direction": "up",
+        "change": 3509.563623286602,
+        "dayOfWeek": "Tuesday",
+        "highSinceStart": true,
+        "lowSinceStart": false
+    },
+    {
+        "date": "10-03-21T00:00:00",
+        "price": 53892.1179524087,
+        "direction": "down",
+        "change": 286.6295944969024,
+        "dayOfWeek": "Wednesday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "11-03-21T00:00:00",
+        "price": 55496.9435380134,
+        "direction": "up",
+        "change": 1604.8255856047035,
+        "dayOfWeek": "Thursday",
+        "highSinceStart": true,
+        "lowSinceStart": false
+    },
+    {
+        "date": "12-03-21T00:00:00",
+        "price": 57336.3670814817,
+        "direction": "up",
+        "change": 1839.4235434682996,
+        "dayOfWeek": "Friday",
+        "highSinceStart": true,
+        "lowSinceStart": false
+    },
+    {
+        "date": "13-03-21T00:00:00",
+        "price": 56890.7844083509,
+        "direction": "down",
+        "change": 445.5826731308043,
+        "dayOfWeek": "Saturday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "14-03-21T00:00:00",
+        "price": 60781.6832671675,
+        "direction": "up",
+        "change": 3890.898858816603,
+        "dayOfWeek": "Sunday",
+        "highSinceStart": true,
+        "lowSinceStart": false
+    },
+    {
+        "date": "15-03-21T00:00:00",
+        "price": 59542.3932284646,
+        "direction": "down",
+        "change": 1239.2900387029003,
+        "dayOfWeek": "Monday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "16-03-21T00:00:00",
+        "price": 54201.0482346589,
+        "direction": "down",
+        "change": 5341.344993805702,
+        "dayOfWeek": "Tuesday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "17-03-21T00:00:00",
+        "price": 55770.93950683,
+        "direction": "up",
+        "change": 1569.8912721711022,
+        "dayOfWeek": "Wednesday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "18-03-21T00:00:00",
+        "price": 59047.9652389211,
+        "direction": "up",
+        "change": 3277.025732091097,
+        "dayOfWeek": "Thursday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "19-03-21T00:00:00",
+        "price": 58051.7008013871,
+        "direction": "down",
+        "change": 996.2644375339951,
+        "dayOfWeek": "Friday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "20-03-21T00:00:00",
+        "price": 58400.381715811,
+        "direction": "up",
+        "change": 348.6809144239014,
+        "dayOfWeek": "Saturday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "21-03-21T00:00:00",
+        "price": 57116.6322014087,
+        "direction": "down",
+        "change": 1283.749514402305,
+        "dayOfWeek": "Sunday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "22-03-21T00:00:00",
+        "price": 57631.516951326,
+        "direction": "up",
+        "change": 514.8847499172989,
+        "dayOfWeek": "Monday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "23-03-21T00:00:00",
+        "price": 54109.5074433026,
+        "direction": "down",
+        "change": 3522.009508023395,
+        "dayOfWeek": "Tuesday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "24-03-21T00:00:00",
+        "price": 54269.3941691411,
+        "direction": "up",
+        "change": 159.88672583849984,
+        "dayOfWeek": "Wednesday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "25-03-21T00:00:00",
+        "price": 52634.5746164831,
+        "direction": "down",
+        "change": 1634.819552658002,
+        "dayOfWeek": "Thursday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "26-03-21T00:00:00",
+        "price": 53000.6751286905,
+        "direction": "up",
+        "change": 366.1005122073984,
+        "dayOfWeek": "Friday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "27-03-21T00:00:00",
+        "price": 55118.3701093335,
+        "direction": "up",
+        "change": 2117.6949806429984,
+        "dayOfWeek": "Saturday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "28-03-21T00:00:00",
+        "price": 56290.8537671023,
+        "direction": "up",
+        "change": 1172.4836577688038,
+        "dayOfWeek": "Sunday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "29-03-21T00:00:00",
+        "price": 55200.274141105,
+        "direction": "down",
+        "change": 1090.5796259972994,
+        "dayOfWeek": "Monday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "30-03-21T00:00:00",
+        "price": 57589.4220140703,
+        "direction": "up",
+        "change": 2389.1478729652954,
+        "dayOfWeek": "Tuesday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "31-03-21T00:00:00",
+        "price": 58784.6195852269,
+        "direction": "up",
+        "change": 1195.1975711566047,
+        "dayOfWeek": "Wednesday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "01-04-21T00:00:00",
+        "price": 58996.6239124189,
+        "direction": "up",
+        "change": 212.00432719200035,
+        "dayOfWeek": "Thursday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "02-04-21T00:00:00",
+        "price": 59724.4863977422,
+        "direction": "up",
+        "change": 727.8624853232977,
+        "dayOfWeek": "Friday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "03-04-21T00:00:00",
+        "price": 59706.0275855151,
+        "direction": "down",
+        "change": 18.45881222710159,
+        "dayOfWeek": "Saturday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "04-04-21T00:00:00",
+        "price": 58012.5158768851,
+        "direction": "down",
+        "change": 1693.5117086299942,
+        "dayOfWeek": "Sunday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    },
+    {
+        "date": "05-04-21T00:00:00",
+        "price": 57754.9251319884,
+        "direction": "down",
+        "change": 257.59074489670456,
+        "dayOfWeek": "Monday",
+        "highSinceStart": false,
+        "lowSinceStart": false
+    }
+]
